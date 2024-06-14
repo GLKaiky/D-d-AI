@@ -2,7 +2,7 @@
 
 * Welcome to my first Inteligent System, created by Supervised Machine Learning with the Python Libraly "RandonForest"
 
-* To start the program, fist execute the file "treino.py" with the command "python3 treino.py" in Linux, and "python treino.py" in Windows, after this, you can execute requisitions to API in Flask Server
+* To start the program, first execute the file "treino.py" with the command "python3 treino.py" in Linux, and "python treino.py" in Windows, after this, you can execute requisitions to API in Flask Server
 
 * To more informations, or suggestion, contact-me in kaikyfrs.comp@gmail.com
 
